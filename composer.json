@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/math",
+    "name"       : "immediate-media/hoa-math",
     "description": "The Hoa\\Math library.",
     "type"       : "library",
     "keywords"   : ["library", "math", "combinatorics", "arrangement",
@@ -24,12 +24,12 @@
         "source": "https://central.hoa-project.net/Resource/Library/Math"
     },
     "require": {
-        "hoa/compiler"   : "~3.0",
-        "hoa/consistency": "~1.0",
-        "hoa/exception"  : "~1.0",
-        "hoa/iterator"   : "~2.0",
-        "hoa/protocol"   : "~1.0",
-        "hoa/zformat"    : "~1.0"
+        "immediate-media/hoa-compiler"   : "~3.0",
+        "immediate-media/hoa-consistency": "~1.0",
+        "immediate-media/hoa-exception"  : "~1.0",
+        "immediate-media/hoa-iterator"   : "~2.0",
+        "immediate-media/hoa-protocol"   : "~1.0",
+        "immediate-media/hoa-zformat"    : "~1.0"
     },
     "require-dev": {
         "hoa/test": "~2.0"
